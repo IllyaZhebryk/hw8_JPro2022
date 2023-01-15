@@ -16,6 +16,7 @@ public class ShakeSort {
         System.out.println("Масив до сортування:");
         System.out.println(Arrays.toString(array));
 
+
         int leftSide = 0;
         int rightSide = array.length - 1;
 

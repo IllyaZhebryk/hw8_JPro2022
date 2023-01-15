@@ -35,6 +35,7 @@ public class QuickSort {
             public static void main(String[] args) {
                 int[] arr = { 12, 0, 4, -6, 3, 7, 10, 12, -1 };
                 System.out.println("Масив до сортування:");
+
                 System.out.println(Arrays.toString(arr));
 
                 int low = 0;
